@@ -233,7 +233,7 @@ import {
     {
       name: "Boids",
       description:
-        "A Java application inspired by Boids, an artificial life program created by Craig Reynolds in 1986. It simulates the flocking behaviour of birds, offering as fascinating glimpse into collective movement patterns.",
+        "A Java application inspired by Boids, an artificial life program created by Craig Reynolds in 1986, that simulates the flocking behavior of birds, offering a fascinating glimpse into collective movement patterns.",
       tags: [
         {
           name: "java",
