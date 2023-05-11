@@ -117,7 +117,7 @@ import {
   
   const experiences = [
     {
-      title: "Cloud Solution Architecture - Volunteer",
+      title: "Cloud Solution Architect",
       company_name: "YVR Vancovuer Airport",
       icon: yvr,
       iconBg: "#E6DEDD",
