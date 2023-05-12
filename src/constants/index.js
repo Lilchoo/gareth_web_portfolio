@@ -120,9 +120,8 @@ import {
       date: "April 2023 - Dec 2023",
       points: [
         "Designed and implemented a robust cloud infrastructure on AWS to facilitate bidirectional communication between buoys deployed throughout YVR airport and the dashboard team.",
-        "Established seamless data transmission from buoys to the dashboard and vice versa, enabling system calibration and real-time monitoring of buoy data.",
         "Configured a scalable database system on AWS to efficiently store and manage data received from the buoys, ensuring availability for future analytics and reporting.",
-        "Collaborated with service providers and leveraged AWS services to optimize performance, security, and cost-effectiveness of the cloud-based solution for YVR.",
+        "Initiated collaboration with service providers, the dashboard team, the device team, and other stakeholders to formulate solutions, optimizing the performance and security of the cloud-based solution for YVR.",
       ],
     },
     {
