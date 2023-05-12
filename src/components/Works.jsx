@@ -76,8 +76,10 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following projects showcases technology and what kind of solution I am trying to solved. Each project is briefly described with links to code repositories. 
-          It reflects my ability to solve complex problwems, work with different technologies, and manage projects effectively.
+          The following projects showcase the technology and solutions I have worked on, 
+          demonstrating my ability to solve complex problems, 
+          work with various technologies, and effectively manage projects. 
+          Each project is briefly described below, along with links to their respective code repositories.
         </motion.p>
       </div>
 

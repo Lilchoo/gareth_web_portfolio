@@ -54,10 +54,6 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Lifelong Learner",
-      icon: learner,
-    },
   ];
   
   const technologies = [
@@ -190,7 +186,7 @@ import {
         },
       ],
       image: pokedex,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Lilchoo/pokedex-python",
     },
     {
       name: "weCollab",

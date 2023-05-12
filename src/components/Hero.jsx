@@ -25,8 +25,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText}
           mt-2 text-white-100`}>
-            I will be graduating end of December 2023. I enjoy building things.<br className="sm:block hidden"/>Looking for opportunity
-            for any software developer role in both front and back-end.
+            BCIT Computer System Technology Student.<br className="sm:block hidden"/>Graduation in December 2023.
           </p>
         </div>
       </div>

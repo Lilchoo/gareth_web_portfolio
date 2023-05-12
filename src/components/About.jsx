@@ -50,11 +50,9 @@ const About = () => {
         className="mt-4 text-secondary text-[17px]
         max-w-3xl leading-[30px]"
       >
-        I'm a software developer with experience in Java, Python, JavaScript, 
-        and experience in frameworks like React, Node.js, and Three.js.
-        I'm a quick learner and enjoy the process of building things through programming.
-        I've have learned variety of topics that allow creating efficient, scalable, and 
-        user-friendly solution.
+       I am a software developer with experience in Java, Python, and JavaScript. 
+       I also have experience working with frameworks such as React, Node.js, and Three.js. 
+       I enjoy the process of building things through programming and have learned a variety of topics that enable me to create efficient, scalable, and user-friendly solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
