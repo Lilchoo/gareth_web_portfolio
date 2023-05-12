@@ -174,7 +174,7 @@ import {
     {
       name: "Pokedex",
       description:
-        "Developed a Pokedex utilizing Python, RESTful APIs, and design patterns including Chain of Responsiblity to ensure organized and indsutry-standard code.",
+        "Developed a Pokedex utilizing Python, RESTful APIs, and design patterns including Chain of Responsiblity to ensure organized and industry-standard code.",
       tags: [
         {
           name: "python",
@@ -190,7 +190,7 @@ import {
         },
       ],
       image: pokedex,
-      source_code_link: "https://github.com/Valeraii/2800-202205-BBY2.git",
+      source_code_link: "https://github.com/",
     },
     {
       name: "weCollab",
