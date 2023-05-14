@@ -114,7 +114,7 @@ import {
   const experiences = [
     {
       title: "Cloud Solution Architect",
-      company_name: "YVR Vancovuer Airport",
+      company_name: "YVR Vancouver Airport",
       icon: yvr,
       iconBg: "#E6DEDD",
       date: "April 2023 - Dec 2023",
