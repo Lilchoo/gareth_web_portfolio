@@ -47,7 +47,7 @@ import {
       icon: web,
     },
     {
-      title: "Android Developer",
+      title: "Mobile Developer",
       icon: mobile,
     },
     {

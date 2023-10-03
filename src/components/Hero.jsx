@@ -25,7 +25,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText}
           mt-2 text-white-100`}>
-            BCIT Second Year Computer Science Student.<br className="sm:block hidden"/>I take pleasure in crafting dreams from nothing using technology.
+            BCIT Second Year Computer Science Student.<br className="sm:block hidden"/> I take pleasure in crafting dreams from nothing using technology.
           </p>
         </div>
       </div>
