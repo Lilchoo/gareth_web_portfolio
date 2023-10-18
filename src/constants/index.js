@@ -113,7 +113,7 @@ import {
   
   const experiences = [
     {
-      title: "Software Engineer (Capstone Project)",
+      title: "Software Engineer",
       company_name: "YVR Vancouver Airport",
       icon: yvr,
       iconBg: "#E6DEDD",
