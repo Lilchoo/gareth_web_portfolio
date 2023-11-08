@@ -24,6 +24,7 @@ import {
     wecollabw,
     pokedex,
     boids,
+    gateway
   } from "../assets";
   
   export const navLinks = [
@@ -166,6 +167,27 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Project Gateway",
+      description:
+        "Developed a mobile application for a hackathon event with features that enable efficient retrieval and updating of patient information using ChatGPT API.",
+      tags: [
+        {
+          name: "Dart",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Flutter",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Android Studio",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gateway,
+      source_code_link: "https://github.com/Lilchoo/Project_Gateway",
+    },
     {
       name: "Pokedex",
       description:

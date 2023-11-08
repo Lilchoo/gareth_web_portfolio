@@ -31,6 +31,7 @@ import pokedex from "./pokedex.png";
 import wecollaba from "./wecollaba.png"
 import wecollabw from "./wecollabw.png"
 import boids from "./boids.png"
+import gateway from "./gateway.png";
 
 export {
   logo,
@@ -62,4 +63,5 @@ export {
   wecollaba,
   wecollabw,
   boids,
+  gateway,
 };
